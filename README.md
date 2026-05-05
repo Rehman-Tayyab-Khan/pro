@@ -84,7 +84,7 @@
 <td width="60%">
 
 ### 🏢 Deline Media Pakistan
-**Full-Stack Developer Intern** &nbsp;|&nbsp; `02/2026 – Present`
+**Full-Stack Developer ** &nbsp;|&nbsp; `02/2026 – Present`
 
 - 🔹 Built **FastBill** — a production-grade Billing & Payment System using Angular, Node.js, Laravel & MySQL with **microservices architecture**
 - 🔹 Implemented **3-role RBAC** (Admin, Biller, Payment Poster) with JWT auth & route guards across Angular and Laravel
